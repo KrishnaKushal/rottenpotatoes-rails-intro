@@ -42,9 +42,9 @@ h1 {
 h1.title {
     margin: 0 0 1em;
     padding: 10px;
-    background-color: Aquamarine;
+    background-color: Brown;
     color: white;
-    border-bottom: 4px solid gold;
+    border-bottom: 4px Black;
     font-size: 2em;
     font-style: normal;
 }
