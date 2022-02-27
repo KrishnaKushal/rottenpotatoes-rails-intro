@@ -1,0 +1,3 @@
+CSCE 606: Software enginnering: Intro to rails assignment by Krishna C Kushal (531006284)
+Github link:https://github.com/KrishnaKushal/SoftwareEngineering
+Heroku app link:https://cryptic-spire-79178.herokuapp.com/
